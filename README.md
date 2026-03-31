@@ -110,8 +110,7 @@ The following Google Form was created as part of the project to assess digital l
 awareness:
 
 Quiz Link:
-https://docs.google.com/forms/d/e/1FAIpQLScHgvMCG7uyjS0OFDU-
-JUHO1WxMYx5fpEHDE8I62ngxECb0sw/viewform?usp=dialog
+https://docs.google.com/forms/d/e/1FAIpQLScHgvMCG7uyjS0OFDU-JUHO1WxMYx5fpEHDE8I62ngxECb0sw/viewform?usp=dialog
 
 ---
 6. Conclusion
