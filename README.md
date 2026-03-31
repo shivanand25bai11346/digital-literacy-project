@@ -23,7 +23,7 @@ The project has five parts, each focusing on a digital skill:
 
 * Staying safe online
 
-These tasks help build a digital base by combining hands-on practice with real-life examples.
+These tasks help build a digital base by combining hands-on practice with real life examples.
 
 Through this project students get to try out platforms like GitHub, LinkedIn and coding websites. They also learn how to communicate and stay safe online. It's not about technical skills but also about being ethical and responsible online.
 
@@ -43,13 +43,13 @@ Module 2: Student Digital Portfolio
 
 This module emphasizes building a professional online identity using platforms like GitHub, LinkedIn, and others. It involves setting up profiles and organizing basic academic and career-related information.
 
-The purpose is to help students establish an online presence that can be accessed by recruiters, internship coordinators, and collaborators. It also introduces the concept of personal branding and encourages long-term planning for career development.
+The purpose is to help students establish an online presence that can be accessed by recruiters, internship coordinators, and collaborators. It also introduces the concept of personal branding and encourages long term planning for career development.
 
 Module 3: Coding & Collaboration Platforms
 
-This module introduces students to coding practice platforms and cloud-based collaboration tools. It includes solving beginner-level programming problems and creating tools like Google Forms for interaction and data collection.
+This module introduces students to coding practice platforms and cloud-based collaboration tools. It includes solving beginner level programming problems and creating tools like Google Forms for interaction and data collection.
 
-The module improves problem-solving skills, logical thinking, and familiarity with tools used in academic and professional environments. It also highlights the importance of collaboration and effective use of digital platforms for teamwork.
+The module improves problem solving skills, logical thinking, and familiarity with tools used in academic and professional environments. It also highlights the importance of collaboration and effective use of digital platforms for teamwork.
 
 Module 4: Professional Communication & Etiquette
 
