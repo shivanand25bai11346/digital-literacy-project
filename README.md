@@ -1,4 +1,4 @@
-Project Overview:
+#Project Overview:
 
 
 This project helps you learn digital skills needed for school, work and everyday life in todays tech world. As a Student Digital Ambassador I want to understand and promote digital habits among friends.
