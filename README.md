@@ -1,4 +1,10 @@
-#Project Overview:
+Name-Shivanand Irappa Sangammanavar
+Register No.: 25BAI11346
+Course-Digital literacy
+
+---
+
+Project Overview:
 
 
 This project helps you learn digital skills needed for school, work and everyday life in todays tech world. As a Student Digital Ambassador I want to understand and promote digital habits among friends.
@@ -22,7 +28,7 @@ Through this project students get to try out platforms like GitHub, LinkedIn and
 Overall the project prepares students to use tools well work together efficiently and have a secure and professional online presence, during school and their future careers.
 
 
-#Module Summaries
+Module Summaries
 
 ---
 
@@ -55,3 +61,9 @@ Module 5: Cybercrime Awareness & Prevention
 This module deals with understanding different types of cybercrimes and how to prevent them. It includes analyzing real or realistic scenarios and creating awareness resources such as prevention checklists.
 
 The module helps students recognize online threats, understand their consequences, and adopt safe digital practices. It also introduces official reporting mechanisms and encourages proactive cybersecurity behavior.
+
+
+---
+
+'Digital Literacy Awareness Quiz' Google form Link:
+https://docs.google.com/forms/d/e/1FAIpQLScHgvMCG7uyjS0OFDU-JUHO1WxMYx5fpEHDE8I62ngxECb0sw/viewform?usp=dialog
