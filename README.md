@@ -13,13 +13,20 @@ and everyday life in today’s technology-driven world. As a Student Digital Amb
 objective is to understand and promote responsible digital habits among peers.
 The project is divided into five key modules, each addressing an important aspect of digital
 literacy:
+
 • Awareness of digital issues
+
 • Building an online profile
+
 • Using coding and collaboration tools
+
 • Professional online communication
+
 • Cyber safety and security
+
 These modules combine practical activities with real-life applications to create a strong digital
 foundation.
+
 Through this project, students explore platforms such as GitHub, LinkedIn, and coding
 websites, while also learning ethical and responsible online behavior. The project not only
 enhances technical exposure but also emphasizes professionalism, collaboration, and security in
@@ -29,9 +36,13 @@ the digital space.
 2. Objectives of the Project
 ---
 • To develop awareness about digital literacy and its importance
+
 • To build a professional online presence
+
 • To improve problem-solving and collaboration skills
+
 • To enhance formal communication abilities
+
 • To understand cyber threats and preventive measures
 
 ---
@@ -85,14 +96,16 @@ cybercrime reporting mechanisms.
 
 ---
 4. Learning Outcomes
+---
 • Improved understanding of digital literacy concepts
 • Ability to create and manage professional online profiles
 • Enhanced coding and collaboration skills
 • Better formal communication practices
 • Awareness of cybersecurity risks and prevention methods
+
 ---
 5. Digital Literacy Awareness Quiz
-
+---
 The following Google Form was created as part of the project to assess digital literacy
 awareness:
 
@@ -100,7 +113,9 @@ Quiz Link:
 https://docs.google.com/forms/d/e/1FAIpQLScHgvMCG7uyjS0OFDU-
 JUHO1WxMYx5fpEHDE8I62ngxECb0sw/viewform?usp=dialog
 
+---
 6. Conclusion
+---
 This project successfully builds a strong foundation in digital literacy by combining practical
 exposure with theoretical understanding. It prepares students to effectively use digital tools,
 communicate professionally, collaborate efficiently, and maintain a secure online presence.
