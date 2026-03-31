@@ -29,9 +29,8 @@ Through this project students get to try out platforms like GitHub, LinkedIn and
 
 Overall the project prepares students to use tools well work together efficiently and have a secure and professional online presence, during school and their future careers.
 
-
+---
 Module Summaries
-
 ---
 
 Module 1: Digital Literacy Awareness
